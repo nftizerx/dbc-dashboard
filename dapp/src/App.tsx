@@ -22,7 +22,7 @@ const App = () => {
         customNetworkConfig={{
           name: 'customConfig',
           apiTimeout: 6000,
-          walletConnectV2ProjectId: '665bf9d46b3bc3ac3e776136245a8c6a'
+          walletConnectV2ProjectId: '371a8134ee4c3734058d1acc98a87d5c'
         }}
       >
         <Layout>
